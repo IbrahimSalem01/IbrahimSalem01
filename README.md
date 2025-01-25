@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IbrahimSalem01
-- 👀 I’m interested in mechanical engineering
-- 🌱 I’m currently learning embedded system
+- 👀 I’m interested in Electromechanical engineering
+- 🌱 I’m currently learning machinel learning and Cyber Security 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
